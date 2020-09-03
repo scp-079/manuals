@@ -52,6 +52,6 @@ type: docs
 
 ### SCP-079-TEST 中的成员
 
-- `/restart id`：重启 ID 机器人程序（非 Docker 部署下有效）
-- `/update id`：更新 ID 机器人程序（非 Docker 部署下有效）
+- `/restart id`：重启 ID 机器人程序
+- `/update id`：更新 ID 机器人程序
 - `/version id`：检查 ID 机器人版本信息
