@@ -190,6 +190,12 @@ type: docs
 /show welcome
 ```
 
+如需显示上一次的设置（非当前设置），请附加 `old` 参数，例如：
+
+```bash
+/show welcome old
+```
+
 ---
 
 ## 设置自定义关键词
